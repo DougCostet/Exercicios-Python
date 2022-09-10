@@ -1,2 +1,3 @@
 # Exercicios-Python
-curso em video
+### Curso em Video
+115 Exercícios em Python
